@@ -1,0 +1,100 @@
+{% extends 'base.html' %}
+{% load crispy_forms_tags %}
+
+{% block title %}{{ title }}{% endblock %}
+
+{% block content %}
+<div class="row justify-content-center">
+    <div class="col-md-8">
+        <div class="card">
+            <div class="card-body p-4">
+                <h2 class="card-title text-center mb-4">{{ title }}</h2>
+                <form method="post" class="mb-4">
+                    {% csrf_token %}
+                    <div class="row g-4">
+                        <div class="col-md-6">
+                            {{ form.gender|as_crispy_field }}
+                            {{ form.age|as_crispy_field }}
+                            {{ form.height|as_crispy_field }}
+                        </div>
+                        <div class="col-md-6">
+                            {{ form.weight|as_crispy_field }}
+                            {{ form.smoke|as_crispy_field }}
+                            {{ form.favc|as_crispy_field }}
+                        </div>
+                    </div>
+                    <div class="text-center mt-4">
+                        <button type="submit" class="btn btn-primary btn-lg">Predict Obesity Level</button>
+                    </div>
+                </form>
+
+                {% if prediction %}
+                <div class="prediction-result text-center">
+                    <h3 class="mb-3">Prediction Result</h3>
+                    <div class="alert alert-info">
+                        <h4 class="mb-2">{{ prediction }}</h4>
+                        <p class="mb-0">{{ confidence }}</p>
+                    </div>
+                    {% if graph_image %}
+                    <div class="mt-4">
+                        <h4 class="mb-3">Prediction Graph</h4>
+                        <div class="graph-container">
+                            <img src="{{ graph_image }}" alt="Prediction Graph" class="img-fluid rounded shadow">
+                        </div>
+                        <div class="text-muted mt-3">
+                            <p class="mb-1">📈 The blue line shows the prediction curve across different BMI values</p>
+                            <p class="mb-1">🔴 The red dot indicates your BMI position</p>
+                            <p class="mb-1">〰️ Dotted lines represent different obesity level thresholds</p>
+                        </div>
+                    </div>
+                    {% endif %}
+                </div>
+                {% endif %}
+
+                {% if error_message %}
+                <div class="alert alert-danger mt-4">
+                    {{ error_message }}
+                </div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .graph-container {
+        background: var(--darker-bg);
+        padding: 1.5rem;
+        border-radius: 15px;
+        margin: 1.5rem 0;
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    }
+    
+    .graph-container img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 10px;
+        transition: transform 0.3s ease;
+    }
+    
+    .graph-container:hover img {
+        transform: scale(1.02);
+    }
+    
+    .prediction-result {
+        opacity: 0;
+        animation: fadeIn 0.5s ease-out forwards;
+    }
+    
+    @keyframes fadeIn {
+        from {
+            opacity: 0;
+            transform: translateY(20px);
+        }
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+</style>
+{% endblock %}

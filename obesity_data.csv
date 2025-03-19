@@ -1,0 +1,1001 @@
+Gender,Age,Height,Weight,SMOKE,FAVC,NObeyesdad
+Male,39.1,183.02,70.39,False,True,Overweight Level I
+Female,57.51,185.62,56.52,True,True,Insufficient Weight
+Male,46.41,170.32,92.8,False,True,Obesity Type II
+Male,28.08,162.47,95.7,False,True,Obesity Type III
+Male,24.22,174.6,40.0,False,False,Insufficient Weight
+Female,40.9,163.22,56.41,False,True,Overweight Level I
+Male,19.16,190.13,45.07,True,False,Insufficient Weight
+Male,56.98,171.37,62.0,False,False,Normal Weight
+Male,49.15,166.35,73.33,False,False,Overweight Level I
+Female,29.37,171.85,46.01,False,True,Normal Weight
+Male,18.0,156.53,56.56,True,False,Insufficient Weight
+Male,51.25,160.28,54.92,False,True,Overweight Level I
+Male,33.63,182.0,79.15,False,False,Normal Weight
+Male,49.85,163.43,76.39,False,False,Overweight Level II
+Female,18.0,159.53,60.57,False,False,Normal Weight
+Male,27.81,175.37,78.54,True,False,Normal Weight
+Female,35.06,181.86,64.07,False,False,Normal Weight
+Female,35.56,177.19,69.57,False,True,Overweight Level I
+Female,29.6,179.96,108.47,False,False,Obesity Type I
+Male,42.47,162.43,101.81,False,False,Obesity Type II
+Female,22.19,155.78,49.01,False,True,Overweight Level I
+Male,33.29,185.01,91.59,False,False,Overweight Level I
+Female,36.44,166.77,91.23,True,False,Overweight Level II
+Female,41.17,167.49,52.03,False,False,Normal Weight
+Female,43.54,183.28,91.38,False,False,Overweight Level I
+Female,21.5,175.56,105.76,False,False,Obesity Type I
+Female,18.0,174.56,52.55,False,True,Normal Weight
+Female,50.33,191.65,56.65,True,False,Insufficient Weight
+Female,38.99,163.56,95.35,False,True,Obesity Type III
+Female,26.02,179.28,80.43,False,False,Overweight Level I
+Male,53.61,170.57,86.03,False,True,Obesity Type I
+Male,36.39,172.69,81.81,False,True,Overweight Level II
+Female,49.15,185.28,82.81,False,False,Normal Weight
+Female,35.81,175.08,48.47,False,False,Insufficient Weight
+Female,59.73,175.38,95.95,False,True,Obesity Type II
+Male,56.06,180.73,98.39,False,False,Obesity Type I
+Female,32.01,166.35,70.41,True,True,Overweight Level I
+Male,46.66,161.61,74.13,False,True,Obesity Type I
+Male,42.74,159.55,44.38,True,False,Insufficient Weight
+Male,51.42,150.34,85.29,False,False,Obesity Type II
+Male,23.42,190.56,86.44,False,True,Overweight Level I
+Male,43.23,158.97,73.76,True,True,Overweight Level II
+Female,47.7,167.79,97.49,False,True,Obesity Type II
+Female,18.0,167.23,68.32,False,True,Overweight Level I
+Female,20.8,173.07,86.29,False,False,Overweight Level II
+Female,18.0,178.16,54.61,True,False,Insufficient Weight
+Female,31.77,178.6,74.53,False,True,Overweight Level I
+Male,43.61,164.17,71.51,False,False,Overweight Level I
+Female,53.03,168.33,79.51,False,False,Overweight Level II
+Female,35.89,172.83,67.61,False,True,Overweight Level I
+Male,54.54,167.51,72.37,False,False,Overweight Level I
+Female,18.44,186.07,91.52,True,False,Normal Weight
+Male,18.0,174.91,66.26,False,True,Overweight Level I
+Female,34.33,177.35,42.87,False,True,Normal Weight
+Male,39.61,176.63,109.99,False,False,Obesity Type II
+Female,34.61,181.73,102.63,False,False,Obesity Type I
+Female,18.0,171.81,49.15,False,True,Normal Weight
+Male,33.93,157.03,88.79,False,True,Obesity Type III
+Male,19.35,174.0,64.94,False,False,Normal Weight
+Male,43.04,163.49,80.27,False,False,Obesity Type I
+Male,39.4,164.71,80.88,False,False,Overweight Level II
+Male,23.72,175.86,70.31,False,False,Normal Weight
+Male,28.83,182.38,59.32,False,True,Normal Weight
+Male,22.29,170.21,61.19,False,False,Normal Weight
+Male,34.25,173.09,56.68,False,False,Normal Weight
+Female,46.46,187.02,58.36,False,False,Insufficient Weight
+Female,23.17,172.41,73.66,False,True,Overweight Level I
+Male,41.05,196.02,60.68,False,False,Insufficient Weight
+Female,28.64,175.66,88.64,False,False,Overweight Level II
+Female,25.49,152.39,104.74,False,False,Obesity Type III
+Female,33.72,177.53,63.4,True,False,Insufficient Weight
+Female,22.58,173.81,79.79,False,True,Overweight Level II
+Male,28.36,182.9,84.99,False,False,Overweight Level I
+Female,20.63,176.73,84.44,False,False,Overweight Level I
+Male,58.58,168.62,76.52,False,False,Overweight Level I
+Female,35.42,157.76,89.85,False,False,Obesity Type II
+Female,26.6,167.91,84.64,True,False,Overweight Level II
+Female,37.57,161.49,50.25,False,True,Overweight Level I
+Male,33.65,164.19,92.38,False,False,Obesity Type I
+Female,32.35,175.89,92.75,False,True,Obesity Type I
+Male,42.37,186.7,59.73,False,True,Normal Weight
+Female,44.09,173.95,75.76,False,True,Overweight Level II
+Male,28.63,158.04,88.67,True,False,Obesity Type I
+Female,28.09,174.45,70.81,False,False,Normal Weight
+Male,31.7,181.97,96.46,False,False,Overweight Level II
+Male,18.0,163.9,122.28,False,False,Obesity Type III
+Female,18.0,168.66,59.28,False,False,Normal Weight
+Male,51.4,170.15,47.38,False,True,Normal Weight
+Female,54.74,162.15,81.08,True,False,Overweight Level II
+Female,32.01,176.48,89.43,False,True,Obesity Type I
+Female,41.92,168.79,70.38,True,True,Normal Weight
+Female,38.74,174.2,104.07,True,False,Overweight Level II
+Female,71.95,161.13,48.23,False,True,Overweight Level I
+Female,48.43,165.63,88.86,False,True,Obesity Type II
+Female,33.46,177.22,62.88,False,False,Normal Weight
+Female,23.53,166.27,109.39,False,False,Obesity Type II
+Female,18.0,187.27,114.85,False,False,Obesity Type I
+Female,37.44,166.0,59.67,True,False,Insufficient Weight
+Female,25.92,172.25,64.01,True,False,Insufficient Weight
+Male,18.0,179.33,92.19,True,False,Overweight Level I
+Male,27.24,155.82,67.26,False,True,Obesity Type I
+Female,22.02,152.39,74.09,False,False,Obesity Type I
+Female,55.25,154.74,75.51,False,False,Obesity Type I
+Female,45.58,182.63,40.0,True,False,Insufficient Weight
+Female,34.9,164.48,74.72,False,False,Overweight Level II
+Female,52.76,195.58,61.21,False,True,Normal Weight
+Female,35.93,164.36,65.14,False,True,Overweight Level I
+Female,24.66,171.85,103.87,True,False,Obesity Type I
+Female,53.28,185.42,49.87,False,True,Normal Weight
+Male,41.47,190.06,91.26,True,False,Normal Weight
+Female,22.55,190.62,69.42,True,True,Normal Weight
+Male,32.72,182.08,69.4,False,False,Normal Weight
+Female,24.49,180.24,90.81,False,False,Overweight Level II
+Female,18.41,175.93,81.8,False,True,Overweight Level II
+Male,46.11,177.78,86.41,False,True,Overweight Level II
+Female,57.91,164.49,94.36,False,False,Obesity Type I
+Male,18.22,161.82,68.37,False,False,Overweight Level I
+Female,41.76,169.97,62.76,True,False,Insufficient Weight
+Female,27.19,168.3,53.3,False,True,Overweight Level I
+Male,29.15,165.47,58.49,False,False,Normal Weight
+Female,27.89,176.96,133.98,True,False,Obesity Type II
+Male,24.63,179.55,99.89,True,True,Obesity Type I
+Female,35.58,170.88,47.98,False,False,Insufficient Weight
+Male,25.03,184.78,48.55,False,True,Normal Weight
+Male,38.25,158.58,84.64,False,True,Obesity Type II
+Female,34.4,168.06,85.95,False,True,Obesity Type II
+Female,32.13,162.83,85.98,False,True,Obesity Type II
+Male,24.11,151.33,69.9,True,True,Obesity Type I
+Female,28.08,169.17,72.49,False,False,Overweight Level I
+Female,44.06,168.78,81.56,False,True,Obesity Type I
+Female,41.01,185.13,76.72,True,True,Normal Weight
+Male,23.27,176.31,40.0,False,True,Normal Weight
+Male,36.19,159.76,70.4,False,False,Overweight Level II
+Male,44.02,188.54,57.97,False,False,Insufficient Weight
+Male,18.0,182.21,78.5,False,False,Normal Weight
+Male,41.52,175.82,134.71,False,False,Obesity Type III
+Male,27.05,167.74,82.35,False,False,Overweight Level II
+Male,41.85,160.41,68.73,True,True,Overweight Level I
+Male,25.84,166.28,93.44,False,False,Obesity Type I
+Male,18.0,180.89,84.65,False,False,Overweight Level I
+Female,18.0,188.85,83.4,False,False,Normal Weight
+Male,35.58,185.43,87.14,False,True,Overweight Level II
+Female,38.12,165.11,116.13,False,False,Obesity Type III
+Female,24.15,158.8,52.38,False,True,Overweight Level I
+Female,42.66,171.41,84.47,True,False,Overweight Level I
+Male,18.0,152.32,56.47,False,False,Normal Weight
+Male,34.21,173.23,86.11,False,True,Obesity Type I
+Male,20.47,168.52,56.63,False,False,Normal Weight
+Male,27.18,165.34,66.65,False,True,Overweight Level I
+Female,35.57,154.05,69.1,False,False,Overweight Level II
+Male,24.68,175.14,94.52,False,False,Obesity Type I
+Male,30.39,164.67,93.37,False,True,Obesity Type II
+Male,47.08,158.3,50.09,False,True,Overweight Level I
+Male,28.08,150.0,76.1,False,False,Obesity Type I
+Male,45.03,169.72,60.81,False,True,Overweight Level I
+Female,21.44,187.72,49.83,False,True,Normal Weight
+Male,41.36,186.61,70.66,False,True,Overweight Level I
+Female,52.3,165.43,68.83,False,False,Overweight Level I
+Male,18.0,163.98,123.53,False,False,Obesity Type III
+Female,25.44,174.69,83.66,False,True,Overweight Level II
+Male,41.92,160.02,47.45,False,True,Overweight Level I
+Male,32.56,173.02,63.7,False,True,Overweight Level I
+Female,39.45,177.66,95.43,False,True,Obesity Type II
+Female,27.75,182.27,116.77,False,False,Obesity Type II
+Female,36.04,169.0,43.28,False,False,Insufficient Weight
+Male,33.13,167.96,40.0,True,True,Insufficient Weight
+Female,49.01,161.22,112.42,False,True,Obesity Type III
+Male,38.05,161.73,82.79,True,True,Obesity Type I
+Male,39.05,167.74,57.63,False,False,Normal Weight
+Female,30.06,173.67,85.69,False,False,Overweight Level II
+Female,29.15,179.14,40.0,False,False,Insufficient Weight
+Male,29.81,161.97,75.07,False,True,Obesity Type I
+Male,39.73,184.93,81.56,False,True,Overweight Level I
+Female,29.95,167.29,93.49,True,True,Obesity Type I
+Female,38.48,169.79,54.72,False,True,Overweight Level I
+Female,59.9,162.53,76.71,False,False,Overweight Level II
+Male,45.45,150.0,56.49,True,False,Normal Weight
+Male,31.09,178.84,80.11,False,False,Overweight Level I
+Male,49.41,177.37,57.09,False,False,Insufficient Weight
+Male,30.1,167.19,66.84,False,True,Overweight Level I
+Male,18.0,170.67,55.08,False,False,Normal Weight
+Male,22.9,175.16,88.02,False,True,Obesity Type I
+Female,18.0,154.37,92.17,False,True,Obesity Type III
+Male,30.78,164.71,70.31,False,False,Overweight Level I
+Male,35.22,177.94,75.76,False,True,Overweight Level I
+Male,55.12,157.46,46.03,False,False,Normal Weight
+Female,38.92,172.94,69.01,False,True,Overweight Level I
+Male,32.37,156.43,74.0,False,False,Obesity Type I
+Male,44.95,174.66,127.42,False,False,Obesity Type III
+Female,18.0,169.64,52.76,False,True,Normal Weight
+Male,37.83,153.85,104.28,False,False,Obesity Type III
+Male,44.25,181.65,94.94,False,True,Obesity Type I
+Male,18.0,162.65,80.61,False,False,Obesity Type I
+Male,48.73,161.9,110.17,False,False,Obesity Type III
+Male,39.06,172.01,82.44,False,False,Overweight Level II
+Female,30.02,181.49,82.78,False,False,Overweight Level I
+Female,42.59,159.84,73.94,True,True,Overweight Level II
+Female,62.25,170.62,99.47,False,False,Obesity Type I
+Male,37.18,174.29,96.93,False,False,Obesity Type I
+Male,37.98,176.93,62.49,False,False,Normal Weight
+Male,29.49,171.76,48.62,False,True,Normal Weight
+Female,24.8,166.33,70.94,False,False,Overweight Level I
+Male,44.96,161.72,59.0,False,False,Normal Weight
+Male,24.73,170.86,73.73,False,True,Overweight Level II
+Female,35.86,159.28,99.75,False,False,Obesity Type II
+Male,29.27,150.0,65.85,False,True,Obesity Type I
+Female,40.75,174.37,74.14,False,False,Normal Weight
+Female,39.0,179.04,76.16,True,False,Insufficient Weight
+Female,47.45,150.0,91.97,False,False,Obesity Type III
+Male,28.88,159.9,40.0,False,False,Insufficient Weight
+Male,31.76,176.19,62.87,False,False,Normal Weight
+Male,23.25,190.57,79.23,False,True,Overweight Level I
+Male,29.67,170.21,99.0,False,True,Obesity Type II
+Male,39.53,162.72,65.16,True,False,Insufficient Weight
+Male,44.08,168.17,40.0,False,True,Normal Weight
+Male,23.93,183.75,87.39,False,True,Overweight Level II
+Female,45.44,163.54,62.29,False,False,Normal Weight
+Male,51.27,162.01,51.21,True,True,Normal Weight
+Female,39.96,165.17,62.51,False,True,Overweight Level I
+Male,57.52,160.47,71.31,False,False,Overweight Level II
+Male,25.71,171.23,62.91,False,True,Overweight Level I
+Male,20.06,186.25,40.0,False,False,Insufficient Weight
+Female,18.0,173.23,92.94,True,False,Overweight Level II
+Female,52.95,167.48,100.5,False,False,Obesity Type II
+Female,42.85,167.08,88.03,False,True,Obesity Type II
+Female,34.33,154.37,52.25,False,False,Normal Weight
+Male,38.36,178.83,70.97,False,False,Normal Weight
+Female,21.49,169.22,74.87,False,False,Overweight Level I
+Male,64.35,168.2,86.98,False,True,Obesity Type II
+Male,36.55,200.0,88.37,True,False,Insufficient Weight
+Female,36.31,172.99,60.32,False,False,Normal Weight
+Female,43.71,162.48,76.64,False,False,Overweight Level II
+Female,40.77,165.74,84.15,False,False,Obesity Type I
+Female,37.69,181.48,104.12,False,False,Obesity Type I
+Female,25.51,171.13,89.09,False,False,Obesity Type I
+Female,40.66,155.62,90.78,False,True,Obesity Type III
+Female,57.58,179.19,76.68,False,False,Normal Weight
+Female,51.15,163.32,103.21,False,True,Obesity Type III
+Male,54.12,188.73,83.2,False,False,Normal Weight
+Female,28.87,180.8,57.78,False,True,Normal Weight
+Female,23.12,165.53,103.07,False,False,Obesity Type II
+Male,33.49,182.81,88.96,False,True,Overweight Level II
+Female,35.67,170.68,66.14,False,False,Normal Weight
+Male,48.13,178.53,65.41,False,False,Normal Weight
+Male,18.0,174.85,80.93,False,True,Overweight Level II
+Female,53.35,161.54,84.26,False,True,Obesity Type II
+Male,33.1,163.56,78.95,False,True,Obesity Type I
+Male,29.88,180.3,81.23,False,False,Normal Weight
+Male,22.85,166.65,109.0,True,False,Obesity Type I
+Male,18.0,165.96,96.43,True,False,Obesity Type I
+Female,44.88,160.45,78.81,False,True,Obesity Type II
+Male,35.88,174.24,93.83,False,False,Obesity Type I
+Female,19.52,190.63,54.35,False,False,Insufficient Weight
+Male,19.46,159.32,82.96,False,False,Obesity Type I
+Male,30.97,170.24,111.19,False,False,Obesity Type II
+Male,55.03,184.12,70.64,False,True,Overweight Level I
+Male,31.88,169.2,58.05,True,True,Normal Weight
+Female,18.0,174.52,61.96,False,True,Overweight Level I
+Female,32.05,159.38,53.21,False,True,Overweight Level I
+Male,31.73,174.28,59.3,False,True,Overweight Level I
+Male,18.0,168.13,67.59,False,True,Overweight Level I
+Female,34.35,179.86,46.89,True,True,Insufficient Weight
+Male,32.23,181.87,75.31,False,False,Normal Weight
+Male,43.35,195.9,93.05,False,False,Normal Weight
+Male,57.19,175.8,56.84,False,False,Insufficient Weight
+Female,48.52,173.26,105.39,False,False,Obesity Type II
+Female,31.77,171.94,85.22,False,True,Obesity Type I
+Female,21.72,166.47,95.61,False,False,Obesity Type I
+Male,65.88,173.38,61.84,False,True,Overweight Level I
+Male,35.71,167.05,92.09,False,False,Obesity Type I
+Female,35.17,171.68,53.16,False,True,Normal Weight
+Female,34.71,183.18,92.8,False,False,Overweight Level II
+Female,37.38,159.93,78.44,False,True,Obesity Type II
+Female,33.27,181.4,86.07,True,True,Overweight Level I
+Male,28.12,183.17,51.49,False,False,Insufficient Weight
+Female,28.44,168.82,57.1,False,True,Overweight Level I
+Male,34.61,150.0,86.94,False,False,Obesity Type II
+Female,28.48,163.92,56.03,False,False,Normal Weight
+Male,26.45,182.97,84.26,True,False,Normal Weight
+Female,36.28,169.77,47.66,False,False,Insufficient Weight
+Female,31.94,160.01,91.96,False,False,Obesity Type II
+Female,53.05,164.95,50.35,False,True,Overweight Level I
+Female,18.0,178.41,86.05,False,False,Overweight Level I
+Male,48.1,175.47,87.51,False,False,Overweight Level II
+Female,49.95,167.61,61.06,False,False,Normal Weight
+Male,18.0,166.33,86.64,False,True,Obesity Type II
+Male,30.89,166.08,80.21,False,False,Overweight Level II
+Male,30.54,160.78,64.22,False,False,Normal Weight
+Male,18.11,186.15,54.83,False,False,Insufficient Weight
+Female,25.67,166.78,40.0,False,False,Insufficient Weight
+Male,21.67,182.17,81.99,False,True,Overweight Level I
+Male,56.03,185.21,43.7,False,True,Normal Weight
+Male,46.23,179.98,76.91,False,False,Normal Weight
+Female,50.26,165.68,69.73,False,False,Overweight Level I
+Female,43.66,174.04,88.58,False,False,Overweight Level II
+Female,21.45,169.76,68.96,False,True,Overweight Level I
+Female,28.71,160.96,68.41,False,False,Overweight Level I
+Male,40.87,173.24,89.64,True,False,Overweight Level I
+Male,20.33,158.21,81.7,False,False,Obesity Type I
+Female,43.56,181.88,81.32,False,False,Normal Weight
+Male,32.12,165.35,84.39,False,True,Obesity Type II
+Male,30.5,172.01,44.29,False,False,Insufficient Weight
+Male,43.53,172.83,90.14,False,True,Obesity Type II
+Female,40.33,167.41,87.25,False,False,Obesity Type I
+Female,30.67,175.87,54.67,False,True,Normal Weight
+Male,48.91,165.25,70.12,False,False,Overweight Level I
+Female,22.03,178.71,74.21,False,True,Overweight Level I
+Female,42.39,156.54,72.31,False,False,Overweight Level II
+Female,42.12,171.26,81.68,False,False,Overweight Level II
+Female,31.29,189.39,103.63,False,False,Overweight Level II
+Female,38.91,160.0,96.64,False,True,Obesity Type III
+Male,19.99,163.22,48.76,False,True,Normal Weight
+Female,46.09,175.14,87.44,False,True,Obesity Type I
+Male,32.78,171.8,101.58,False,False,Obesity Type I
+Male,28.73,173.51,82.74,False,True,Overweight Level II
+Female,47.59,174.89,96.82,False,False,Obesity Type I
+Male,26.55,176.35,115.25,False,False,Obesity Type II
+Male,18.1,181.1,95.47,False,False,Overweight Level II
+Male,18.0,174.1,79.99,False,False,Overweight Level I
+Female,42.27,167.59,95.9,False,False,Obesity Type I
+Female,19.63,176.73,77.9,False,True,Overweight Level I
+Male,56.06,189.0,75.48,True,False,Insufficient Weight
+Female,18.0,168.67,67.97,False,False,Normal Weight
+Female,55.36,160.25,106.27,True,True,Obesity Type II
+Female,37.53,181.07,58.63,False,False,Insufficient Weight
+Female,33.84,168.8,105.65,False,False,Obesity Type II
+Male,28.46,150.0,85.0,False,False,Obesity Type II
+Male,39.79,178.47,47.01,False,True,Normal Weight
+Female,34.55,164.65,82.35,False,False,Obesity Type I
+Female,48.24,169.09,40.0,False,True,Normal Weight
+Male,36.37,173.32,87.51,False,True,Obesity Type I
+Male,36.8,171.9,92.7,False,False,Obesity Type I
+Female,30.64,177.09,63.15,True,False,Insufficient Weight
+Male,34.32,165.65,77.47,False,False,Overweight Level II
+Female,38.69,175.13,114.08,False,True,Obesity Type III
+Female,18.0,167.4,64.89,False,False,Normal Weight
+Male,18.82,177.39,53.82,False,False,Insufficient Weight
+Male,43.92,176.15,104.63,False,True,Obesity Type II
+Female,37.05,160.65,114.25,False,False,Obesity Type III
+Female,32.79,180.86,75.07,False,True,Overweight Level I
+Male,35.22,164.64,95.23,True,False,Obesity Type I
+Female,39.17,178.08,101.83,False,False,Obesity Type I
+Male,28.52,173.67,60.15,False,True,Overweight Level I
+Female,25.66,188.38,65.29,False,True,Normal Weight
+Male,37.35,167.77,99.62,True,True,Obesity Type II
+Male,23.26,166.51,108.7,False,True,Obesity Type III
+Male,39.9,169.81,86.26,False,False,Overweight Level II
+Female,18.0,166.97,57.4,False,False,Normal Weight
+Female,47.35,178.0,114.74,False,True,Obesity Type III
+Male,40.67,153.84,64.38,False,True,Overweight Level II
+Female,38.07,159.46,68.3,False,False,Overweight Level I
+Male,46.79,159.32,81.85,False,False,Obesity Type I
+Male,54.99,179.5,106.08,False,True,Obesity Type II
+Female,47.17,187.11,92.08,True,True,Overweight Level I
+Female,18.0,168.96,83.3,False,False,Overweight Level II
+Male,19.65,168.31,84.27,False,True,Obesity Type I
+Female,27.5,170.7,75.87,False,True,Overweight Level II
+Female,35.31,181.62,86.16,False,False,Overweight Level I
+Male,41.21,160.73,40.0,False,False,Insufficient Weight
+Male,26.29,172.38,69.07,False,False,Normal Weight
+Female,37.24,179.75,79.83,True,False,Insufficient Weight
+Male,25.94,175.01,51.98,False,False,Insufficient Weight
+Male,27.66,171.9,82.73,False,True,Obesity Type I
+Female,18.12,180.01,70.91,False,True,Overweight Level I
+Male,23.92,150.0,110.11,False,True,Obesity Type III
+Male,18.78,176.78,106.46,False,True,Obesity Type II
+Female,23.29,163.46,65.68,False,False,Normal Weight
+Female,47.64,151.69,71.98,False,False,Obesity Type I
+Male,23.61,175.11,73.52,False,False,Normal Weight
+Male,66.59,183.74,65.97,False,False,Normal Weight
+Female,40.92,168.63,78.9,False,True,Obesity Type I
+Female,37.22,179.53,59.83,False,True,Overweight Level I
+Female,24.7,186.12,52.39,False,False,Insufficient Weight
+Female,43.4,183.15,87.45,False,False,Overweight Level I
+Male,28.09,186.4,87.59,False,False,Overweight Level I
+Female,36.46,177.42,58.91,False,False,Normal Weight
+Female,65.72,170.75,92.91,True,False,Overweight Level II
+Male,33.85,153.98,62.37,False,False,Overweight Level I
+Female,48.79,167.54,80.06,False,True,Obesity Type I
+Male,26.56,161.57,91.41,False,False,Obesity Type II
+Female,34.58,191.71,74.33,False,False,Normal Weight
+Female,56.25,168.24,84.09,False,True,Obesity Type I
+Female,27.48,171.23,64.67,False,False,Normal Weight
+Male,56.75,175.51,71.07,True,True,Normal Weight
+Male,43.49,170.44,70.88,False,False,Normal Weight
+Female,28.25,186.95,60.07,False,True,Normal Weight
+Male,42.59,163.77,71.46,True,False,Normal Weight
+Male,46.67,171.95,44.03,False,True,Normal Weight
+Male,42.46,162.58,65.18,False,False,Normal Weight
+Male,18.0,156.8,69.3,False,True,Obesity Type I
+Male,26.27,163.88,69.88,False,True,Overweight Level II
+Male,32.03,169.63,70.17,False,False,Normal Weight
+Female,34.11,165.71,73.76,False,False,Overweight Level I
+Female,42.45,163.08,84.59,False,True,Obesity Type II
+Male,37.13,155.94,92.49,False,True,Obesity Type III
+Female,18.98,169.17,62.0,False,False,Normal Weight
+Female,39.56,154.95,50.94,True,False,Insufficient Weight
+Female,42.33,177.6,54.16,True,False,Insufficient Weight
+Female,41.72,170.82,65.26,False,True,Overweight Level I
+Male,47.97,155.42,67.96,False,False,Overweight Level II
+Female,45.01,166.91,59.6,False,True,Overweight Level I
+Female,40.51,162.48,49.08,False,True,Overweight Level I
+Male,34.16,173.19,65.88,False,False,Normal Weight
+Male,18.0,183.4,78.63,False,False,Normal Weight
+Female,40.16,151.25,86.9,False,False,Obesity Type II
+Female,37.49,171.15,63.85,False,True,Overweight Level I
+Female,38.26,168.4,66.74,False,False,Normal Weight
+Female,19.68,176.71,56.47,False,False,Insufficient Weight
+Female,22.03,172.13,74.37,True,False,Normal Weight
+Female,47.64,162.48,58.03,False,True,Overweight Level I
+Male,34.53,166.81,86.46,False,True,Obesity Type II
+Female,43.18,162.04,40.0,True,True,Insufficient Weight
+Female,35.34,180.76,67.81,False,False,Normal Weight
+Male,35.36,170.21,81.02,False,True,Obesity Type I
+Male,46.26,189.01,78.68,False,False,Normal Weight
+Male,28.81,169.39,128.86,False,True,Obesity Type III
+Male,36.15,162.92,82.0,False,False,Obesity Type I
+Female,29.45,154.86,54.92,False,True,Overweight Level I
+Female,29.79,151.97,73.09,False,False,Obesity Type I
+Female,31.29,154.16,40.0,False,False,Insufficient Weight
+Female,37.67,172.67,73.39,False,True,Overweight Level I
+Female,29.26,175.09,58.34,False,False,Normal Weight
+Female,50.07,154.19,93.31,False,False,Obesity Type II
+Male,24.26,178.95,64.01,False,False,Normal Weight
+Female,32.76,165.17,72.66,False,False,Overweight Level I
+Male,29.72,171.47,62.29,False,True,Overweight Level I
+Male,52.36,186.12,109.78,False,True,Obesity Type II
+Female,37.36,178.97,68.58,False,True,Overweight Level I
+Male,47.38,167.31,111.65,False,True,Obesity Type III
+Female,18.0,161.09,91.28,False,True,Obesity Type III
+Male,38.2,150.0,84.64,False,True,Obesity Type III
+Female,45.68,162.81,82.37,True,False,Overweight Level II
+Male,35.99,167.89,82.88,False,False,Overweight Level II
+Female,47.79,160.13,40.0,False,True,Normal Weight
+Female,28.79,168.69,69.42,False,True,Overweight Level I
+Female,51.91,170.77,91.9,True,False,Overweight Level II
+Female,62.59,167.75,74.02,False,True,Overweight Level II
+Female,30.65,163.5,46.9,False,True,Normal Weight
+Male,29.65,171.69,73.95,False,True,Overweight Level II
+Male,52.44,174.42,109.08,False,False,Obesity Type II
+Male,53.95,159.1,99.94,True,False,Obesity Type I
+Female,28.73,184.11,73.76,True,True,Normal Weight
+Male,29.96,169.01,94.03,False,False,Obesity Type I
+Female,31.62,170.19,67.67,False,False,Normal Weight
+Female,18.87,177.08,40.92,False,False,Insufficient Weight
+Male,23.98,172.33,56.51,True,False,Insufficient Weight
+Male,22.95,179.53,106.26,False,False,Obesity Type I
+Female,25.79,172.87,69.52,False,True,Overweight Level I
+Male,34.58,163.88,70.13,False,True,Overweight Level II
+Female,37.81,173.62,69.0,False,False,Normal Weight
+Female,53.61,158.56,113.08,False,False,Obesity Type III
+Female,23.02,171.09,107.52,True,False,Obesity Type I
+Female,46.81,169.67,119.38,True,False,Obesity Type II
+Female,32.43,167.92,71.82,False,False,Overweight Level I
+Male,34.41,168.71,80.91,False,True,Obesity Type I
+Male,43.1,151.18,44.67,True,False,Insufficient Weight
+Female,21.53,164.51,104.54,False,False,Obesity Type II
+Female,39.59,170.93,51.64,True,False,Insufficient Weight
+Male,37.0,171.6,79.34,False,False,Overweight Level I
+Male,40.91,159.72,53.05,False,False,Normal Weight
+Female,38.47,182.66,63.22,False,True,Overweight Level I
+Male,64.46,161.34,58.25,False,False,Normal Weight
+Female,27.35,179.69,62.84,False,True,Overweight Level I
+Male,28.63,174.27,64.22,False,False,Normal Weight
+Female,27.52,163.54,64.03,False,False,Normal Weight
+Male,28.33,187.75,91.67,False,True,Overweight Level II
+Female,27.35,158.06,52.9,True,False,Insufficient Weight
+Male,49.27,179.19,79.41,False,False,Normal Weight
+Male,52.05,180.01,99.36,False,False,Obesity Type I
+Female,28.15,163.29,64.74,False,True,Overweight Level I
+Male,25.01,183.92,60.64,False,False,Insufficient Weight
+Female,40.66,167.5,70.39,False,False,Overweight Level I
+Male,28.37,172.89,98.59,False,False,Obesity Type I
+Female,42.6,172.6,78.88,False,True,Overweight Level II
+Male,37.44,168.66,64.38,False,False,Normal Weight
+Female,18.0,178.11,84.68,False,False,Overweight Level I
+Male,53.57,177.93,52.95,False,True,Normal Weight
+Female,56.55,152.51,88.63,True,True,Obesity Type II
+Male,27.65,183.04,83.17,False,True,Overweight Level I
+Female,30.35,153.38,68.84,False,False,Overweight Level II
+Female,38.43,180.33,58.23,True,False,Insufficient Weight
+Female,39.01,181.27,57.27,False,False,Insufficient Weight
+Male,42.9,159.09,85.7,False,True,Obesity Type II
+Female,59.12,165.89,99.58,False,False,Obesity Type II
+Male,32.88,158.94,62.25,False,True,Overweight Level I
+Female,25.42,167.85,84.17,False,True,Obesity Type I
+Male,18.45,166.92,40.0,True,False,Insufficient Weight
+Female,26.23,177.8,63.31,False,True,Overweight Level I
+Male,34.6,183.1,74.38,False,False,Normal Weight
+Male,56.53,183.96,56.81,False,True,Normal Weight
+Female,28.79,164.38,56.27,True,False,Insufficient Weight
+Male,37.69,167.91,61.64,False,False,Normal Weight
+Male,34.8,153.17,80.84,False,False,Obesity Type I
+Female,49.26,161.94,71.25,False,True,Overweight Level II
+Male,65.32,179.65,40.0,False,True,Normal Weight
+Male,28.63,186.16,40.0,False,False,Insufficient Weight
+Male,29.13,157.66,62.86,False,True,Overweight Level II
+Female,47.53,164.08,84.15,False,False,Obesity Type I
+Male,43.18,169.74,40.0,False,False,Insufficient Weight
+Female,57.16,172.8,65.01,False,True,Overweight Level I
+Male,42.01,161.9,64.48,True,True,Normal Weight
+Male,30.69,174.24,102.77,False,False,Obesity Type I
+Male,42.09,165.26,67.3,True,False,Insufficient Weight
+Female,48.3,169.86,82.66,False,False,Overweight Level II
+Male,44.85,175.46,77.83,False,False,Overweight Level I
+Male,41.09,170.06,40.0,False,False,Insufficient Weight
+Female,47.8,165.64,90.36,False,True,Obesity Type II
+Male,49.03,168.9,79.31,False,False,Overweight Level II
+Female,51.59,169.12,85.17,True,False,Overweight Level I
+Female,42.78,166.3,153.52,False,True,Obesity Type III
+Male,32.99,167.41,40.0,True,True,Insufficient Weight
+Female,36.76,185.99,109.49,True,True,Obesity Type I
+Male,49.48,175.61,69.25,False,True,Overweight Level I
+Female,25.2,167.05,80.75,False,False,Overweight Level II
+Female,39.42,176.97,74.09,False,True,Overweight Level I
+Male,30.28,166.66,66.52,False,True,Overweight Level I
+Female,35.34,181.73,63.6,True,True,Normal Weight
+Female,50.34,173.7,81.59,False,False,Overweight Level I
+Female,37.29,168.93,44.66,False,False,Insufficient Weight
+Female,35.56,174.48,90.01,False,False,Overweight Level II
+Female,18.68,154.29,66.68,False,True,Obesity Type I
+Male,43.96,158.73,52.4,False,False,Normal Weight
+Female,42.75,158.06,66.0,True,False,Normal Weight
+Male,60.96,171.43,100.14,False,True,Obesity Type II
+Female,31.31,187.33,64.29,False,True,Normal Weight
+Male,37.63,192.31,82.17,False,True,Overweight Level I
+Male,37.99,176.38,60.38,False,True,Overweight Level I
+Female,53.93,175.01,90.16,False,False,Overweight Level II
+Female,33.86,151.99,88.71,False,False,Obesity Type II
+Female,38.35,164.57,111.97,False,False,Obesity Type III
+Male,42.29,162.12,71.49,False,False,Overweight Level I
+Female,37.24,163.79,88.37,False,False,Obesity Type I
+Male,29.64,168.32,76.96,False,False,Overweight Level I
+Male,37.33,165.28,100.92,False,False,Obesity Type II
+Male,47.88,150.21,60.62,False,True,Overweight Level II
+Female,22.68,177.48,89.9,False,True,Obesity Type I
+Female,36.6,159.27,71.11,False,False,Overweight Level II
+Male,26.6,172.39,73.72,False,True,Overweight Level I
+Male,49.34,190.74,76.84,False,True,Overweight Level I
+Female,18.0,160.81,80.04,False,False,Obesity Type I
+Male,28.29,150.0,72.68,False,False,Obesity Type I
+Female,39.53,167.14,79.29,False,False,Overweight Level II
+Male,53.79,181.01,106.56,False,False,Obesity Type I
+Female,34.21,189.58,94.71,False,False,Overweight Level I
+Male,28.34,157.7,92.38,False,False,Obesity Type II
+Female,57.57,174.97,65.89,True,False,Insufficient Weight
+Male,18.0,165.35,57.22,False,False,Normal Weight
+Female,18.0,168.94,94.11,False,False,Obesity Type I
+Female,40.28,196.44,92.52,True,False,Insufficient Weight
+Male,28.98,154.97,104.45,False,False,Obesity Type III
+Male,22.75,172.54,62.92,False,False,Normal Weight
+Female,43.5,174.68,70.41,False,True,Overweight Level I
+Male,37.93,180.86,42.21,False,True,Normal Weight
+Female,28.23,170.98,67.15,True,True,Normal Weight
+Male,19.64,173.08,94.93,False,False,Obesity Type I
+Female,45.47,166.08,65.67,False,True,Overweight Level I
+Female,42.8,172.69,87.81,False,True,Obesity Type I
+Female,33.81,166.57,71.19,True,False,Normal Weight
+Female,57.16,176.22,81.48,False,True,Overweight Level II
+Female,22.16,166.3,52.05,True,False,Insufficient Weight
+Female,18.0,173.77,76.7,False,True,Overweight Level II
+Male,26.7,169.71,40.0,False,False,Insufficient Weight
+Male,34.45,181.26,71.26,False,False,Normal Weight
+Male,37.92,169.49,42.39,False,False,Insufficient Weight
+Female,32.11,152.27,99.12,False,False,Obesity Type III
+Female,39.22,182.62,90.55,False,False,Overweight Level I
+Female,19.98,160.94,84.33,True,True,Obesity Type I
+Female,52.33,163.46,105.42,False,True,Obesity Type III
+Male,34.01,164.04,56.02,False,True,Overweight Level I
+Male,48.41,183.74,109.95,False,False,Obesity Type I
+Female,39.11,150.0,93.64,False,False,Obesity Type III
+Male,40.48,200.0,70.27,False,False,Insufficient Weight
+Male,41.84,180.56,97.71,True,True,Overweight Level II
+Female,40.37,172.23,52.87,False,False,Insufficient Weight
+Male,42.71,169.45,58.51,False,False,Normal Weight
+Female,50.95,172.86,62.83,False,False,Normal Weight
+Male,37.36,175.21,64.42,False,False,Normal Weight
+Female,43.51,176.45,53.87,True,True,Insufficient Weight
+Female,33.92,175.56,99.46,False,False,Obesity Type I
+Female,52.28,170.9,69.82,False,False,Normal Weight
+Female,26.88,168.03,82.05,False,True,Obesity Type I
+Male,56.61,168.49,63.59,True,True,Normal Weight
+Female,34.52,168.05,40.0,False,False,Insufficient Weight
+Female,18.0,181.34,80.4,False,False,Normal Weight
+Female,36.54,175.94,40.0,False,False,Insufficient Weight
+Male,26.83,150.0,73.63,False,True,Obesity Type II
+Female,45.09,176.56,47.63,False,False,Insufficient Weight
+Male,27.17,171.95,114.75,False,False,Obesity Type II
+Female,29.65,169.81,93.23,False,False,Obesity Type I
+Male,18.0,166.11,77.12,False,False,Overweight Level II
+Male,29.57,181.24,100.27,False,True,Obesity Type II
+Female,18.0,179.48,58.07,False,False,Insufficient Weight
+Male,18.0,162.27,85.87,False,True,Obesity Type II
+Female,44.12,174.07,79.0,False,False,Overweight Level I
+Female,44.43,160.28,80.28,True,False,Overweight Level II
+Female,40.11,156.2,100.45,False,False,Obesity Type III
+Male,23.4,163.73,89.65,False,False,Obesity Type I
+Male,34.43,178.62,80.77,False,False,Overweight Level I
+Female,34.96,179.53,41.9,True,False,Insufficient Weight
+Female,21.1,175.13,55.8,False,False,Insufficient Weight
+Male,53.04,177.25,72.55,False,False,Normal Weight
+Female,45.53,175.16,76.87,True,False,Normal Weight
+Female,32.35,163.59,52.4,False,False,Normal Weight
+Female,35.32,174.32,123.23,False,True,Obesity Type III
+Male,37.5,178.0,105.33,False,False,Obesity Type I
+Male,18.0,177.54,87.04,True,True,Overweight Level II
+Male,32.03,181.89,76.44,True,False,Insufficient Weight
+Female,26.82,177.08,70.76,False,True,Overweight Level I
+Female,22.98,173.51,55.96,True,False,Insufficient Weight
+Female,31.63,180.7,76.55,False,False,Normal Weight
+Male,56.57,169.73,80.16,True,False,Overweight Level I
+Female,42.69,161.18,50.16,False,False,Normal Weight
+Female,28.15,168.37,81.68,True,True,Overweight Level II
+Female,41.87,162.55,71.89,False,True,Overweight Level II
+Female,51.79,163.25,40.0,False,True,Normal Weight
+Male,46.1,168.55,57.79,False,False,Normal Weight
+Male,35.72,162.08,66.73,False,False,Overweight Level I
+Female,27.24,166.92,112.75,False,False,Obesity Type III
+Male,43.38,151.06,86.13,False,True,Obesity Type III
+Male,39.72,172.13,48.29,False,True,Normal Weight
+Female,45.74,170.01,84.72,False,False,Overweight Level II
+Female,42.62,161.83,44.05,False,False,Insufficient Weight
+Male,47.59,176.59,96.65,False,False,Obesity Type I
+Female,28.58,179.38,65.58,False,False,Normal Weight
+Male,50.81,153.92,73.13,False,False,Obesity Type I
+Female,37.37,162.37,101.52,False,True,Obesity Type III
+Male,59.9,162.31,49.26,False,False,Normal Weight
+Female,26.73,160.6,47.06,False,False,Insufficient Weight
+Male,55.83,178.29,63.33,False,True,Overweight Level I
+Male,37.37,168.06,95.77,False,False,Obesity Type I
+Male,27.18,167.35,44.61,False,True,Normal Weight
+Female,29.19,150.0,40.0,False,False,Insufficient Weight
+Male,31.16,176.35,65.98,False,True,Overweight Level I
+Male,40.09,157.61,86.03,False,False,Obesity Type I
+Female,41.27,170.6,99.01,True,True,Obesity Type I
+Female,28.12,172.77,65.74,False,False,Normal Weight
+Male,34.71,183.61,66.77,False,False,Normal Weight
+Male,60.71,156.91,98.08,False,False,Obesity Type II
+Female,55.73,150.0,40.0,False,False,Insufficient Weight
+Female,40.24,171.84,67.23,False,False,Normal Weight
+Female,35.46,188.01,78.81,False,True,Overweight Level I
+Female,36.44,182.39,83.98,False,True,Overweight Level II
+Female,42.36,172.1,64.8,False,True,Overweight Level I
+Male,22.73,165.08,75.69,False,False,Overweight Level II
+Female,31.91,178.07,40.0,False,True,Normal Weight
+Male,18.0,160.26,61.84,False,False,Normal Weight
+Male,39.79,174.76,84.07,False,False,Overweight Level II
+Male,42.77,175.05,55.35,False,True,Normal Weight
+Female,29.2,180.6,76.18,False,True,Overweight Level I
+Male,53.89,197.6,83.94,False,True,Overweight Level I
+Male,20.29,173.92,68.15,False,False,Normal Weight
+Female,18.0,164.91,78.41,False,True,Obesity Type I
+Male,37.69,169.74,55.75,False,True,Overweight Level I
+Male,47.57,152.31,70.87,False,False,Obesity Type I
+Female,55.21,163.05,87.2,False,False,Obesity Type I
+Male,29.49,165.91,78.14,False,True,Obesity Type I
+Male,47.94,164.76,63.27,False,True,Overweight Level I
+Male,34.54,171.52,79.48,False,True,Overweight Level II
+Female,32.93,161.78,89.29,False,False,Obesity Type I
+Female,45.6,181.21,40.0,False,False,Insufficient Weight
+Female,42.83,170.0,98.18,False,True,Obesity Type II
+Male,18.0,169.91,68.27,True,True,Normal Weight
+Male,52.72,166.72,83.51,False,False,Obesity Type I
+Female,51.56,171.55,98.94,False,False,Obesity Type I
+Male,27.49,178.25,47.57,False,True,Normal Weight
+Male,39.75,161.33,60.81,False,False,Normal Weight
+Female,40.93,163.42,69.23,False,True,Overweight Level II
+Female,38.13,166.96,59.32,False,True,Overweight Level I
+Male,28.4,156.54,109.7,False,False,Obesity Type III
+Male,26.94,161.81,57.86,False,False,Normal Weight
+Male,34.69,165.24,63.89,False,False,Normal Weight
+Female,49.07,178.74,79.09,False,False,Normal Weight
+Female,41.52,172.63,50.96,False,False,Insufficient Weight
+Female,30.55,171.94,67.09,False,False,Normal Weight
+Female,44.26,178.51,81.35,False,False,Overweight Level I
+Male,18.0,168.63,68.34,False,False,Normal Weight
+Female,48.79,173.9,73.13,False,False,Normal Weight
+Female,18.0,168.97,64.41,False,True,Overweight Level I
+Female,30.65,172.65,44.71,False,False,Insufficient Weight
+Female,21.56,164.17,81.43,False,False,Obesity Type I
+Female,19.46,150.0,110.1,False,False,Obesity Type III
+Male,48.93,168.66,75.37,False,True,Overweight Level II
+Male,29.39,184.23,79.51,False,False,Normal Weight
+Female,39.16,179.26,88.85,False,False,Overweight Level II
+Male,34.44,179.65,49.61,False,True,Normal Weight
+Female,40.72,182.36,109.05,False,False,Obesity Type I
+Female,35.92,170.89,79.05,True,True,Overweight Level I
+Male,19.6,171.97,107.64,False,True,Obesity Type III
+Male,46.96,163.82,60.34,True,False,Insufficient Weight
+Female,29.07,166.84,111.36,True,False,Obesity Type II
+Female,18.0,176.16,90.5,False,False,Overweight Level II
+Female,29.86,182.04,86.06,False,True,Overweight Level II
+Male,53.01,168.61,79.68,False,False,Overweight Level II
+Female,45.2,165.5,70.03,False,True,Overweight Level II
+Female,30.82,170.01,99.01,False,True,Obesity Type II
+Female,30.81,176.01,77.81,False,True,Overweight Level II
+Male,31.14,155.56,40.0,False,False,Insufficient Weight
+Female,59.92,150.0,52.66,False,False,Normal Weight
+Female,39.58,164.49,71.28,False,False,Overweight Level I
+Male,40.16,157.79,81.2,False,False,Obesity Type I
+Female,47.36,164.92,73.87,False,True,Overweight Level II
+Female,37.87,168.52,99.38,False,False,Obesity Type I
+Male,31.89,165.47,40.0,False,False,Insufficient Weight
+Female,32.64,184.52,77.87,False,False,Normal Weight
+Male,34.14,173.27,40.0,True,True,Insufficient Weight
+Male,34.55,173.0,90.19,False,False,Obesity Type I
+Female,43.73,176.22,73.11,True,False,Insufficient Weight
+Female,35.62,158.61,83.39,False,False,Obesity Type I
+Female,43.79,180.39,57.72,False,False,Insufficient Weight
+Female,34.03,169.24,100.59,False,True,Obesity Type III
+Male,35.94,176.7,95.83,False,False,Obesity Type I
+Female,18.0,159.28,86.67,False,True,Obesity Type II
+Male,46.0,154.46,72.41,False,False,Obesity Type I
+Female,39.16,178.18,86.6,False,False,Overweight Level I
+Female,46.98,173.76,60.86,False,True,Overweight Level I
+Female,18.0,160.98,92.11,True,False,Obesity Type I
+Male,60.06,161.3,107.99,False,False,Obesity Type III
+Female,33.32,181.25,96.41,False,True,Obesity Type I
+Female,48.3,158.11,60.41,False,False,Normal Weight
+Female,22.52,186.43,82.23,False,True,Overweight Level I
+Female,42.35,160.99,49.14,False,False,Normal Weight
+Male,22.36,176.38,86.45,False,False,Overweight Level II
+Female,27.51,166.71,84.01,False,False,Obesity Type I
+Male,57.97,176.03,40.0,False,False,Insufficient Weight
+Male,32.71,164.56,51.76,False,False,Normal Weight
+Male,37.61,168.37,69.34,False,False,Normal Weight
+Male,45.44,170.41,68.98,True,True,Normal Weight
+Male,40.95,159.98,50.81,False,False,Normal Weight
+Male,36.81,177.41,82.78,False,False,Overweight Level I
+Female,39.38,164.87,80.03,False,True,Obesity Type I
+Male,63.84,167.71,71.11,False,False,Overweight Level I
+Male,34.31,160.06,59.88,False,False,Normal Weight
+Male,37.41,150.0,95.97,False,False,Obesity Type III
+Female,47.61,168.09,108.11,False,True,Obesity Type III
+Female,48.27,194.13,65.33,False,True,Normal Weight
+Male,49.24,177.85,62.76,False,True,Overweight Level I
+Female,42.66,169.81,84.82,False,False,Overweight Level II
+Male,21.28,167.37,67.84,True,True,Normal Weight
+Male,54.6,170.22,72.21,False,False,Normal Weight
+Female,21.24,175.47,89.79,True,True,Overweight Level II
+Male,38.63,158.19,40.0,False,False,Insufficient Weight
+Female,25.95,181.14,101.37,False,True,Obesity Type II
+Female,34.23,177.15,76.45,False,False,Normal Weight
+Male,38.95,177.18,66.77,False,True,Overweight Level I
+Male,38.86,174.38,73.22,False,False,Normal Weight
+Female,40.06,170.2,74.25,False,True,Overweight Level II
+Male,54.36,176.73,40.38,False,False,Insufficient Weight
+Male,40.44,175.92,104.9,False,False,Obesity Type I
+Male,32.07,166.46,75.83,False,True,Overweight Level II
+Female,46.57,164.26,83.86,False,False,Obesity Type I
+Female,49.27,171.02,94.03,False,False,Obesity Type I
+Male,20.27,185.49,54.58,False,True,Normal Weight
+Female,42.17,157.61,84.47,False,False,Obesity Type I
+Female,43.41,155.32,69.65,False,True,Obesity Type I
+Female,31.43,171.65,91.94,False,False,Obesity Type I
+Female,51.51,170.51,40.0,False,False,Insufficient Weight
+Female,33.2,171.73,73.02,False,True,Overweight Level I
+Male,36.51,172.44,62.94,False,False,Normal Weight
+Male,32.92,167.77,83.65,False,False,Overweight Level II
+Male,35.19,184.9,84.4,False,False,Normal Weight
+Female,21.84,153.99,60.85,False,False,Overweight Level I
+Female,18.0,161.72,60.76,False,False,Normal Weight
+Male,54.13,168.97,72.79,False,False,Overweight Level I
+Female,24.84,153.57,57.07,True,True,Normal Weight
+Male,23.1,168.24,91.84,False,False,Obesity Type I
+Male,18.0,186.61,67.62,False,False,Normal Weight
+Male,27.33,170.21,40.0,False,False,Insufficient Weight
+Female,19.12,172.31,67.5,False,False,Normal Weight
+Female,54.7,157.4,54.23,False,False,Normal Weight
+Male,47.12,163.84,42.37,False,False,Insufficient Weight
+Male,26.74,166.25,50.25,False,False,Insufficient Weight
+Male,62.03,166.82,77.19,False,True,Obesity Type I
+Male,46.78,182.82,101.57,False,False,Obesity Type I
+Female,31.1,175.58,81.26,False,False,Overweight Level I
+Female,18.0,158.89,62.87,False,True,Overweight Level I
+Male,62.49,172.47,84.12,True,False,Overweight Level I
+Male,18.33,174.98,65.82,False,False,Normal Weight
+Female,18.0,181.4,61.11,False,True,Overweight Level I
+Female,47.27,185.81,51.91,False,True,Normal Weight
+Male,64.28,159.85,40.0,True,True,Insufficient Weight
+Male,51.61,161.89,67.2,False,False,Overweight Level I
+Male,41.77,157.42,78.16,False,True,Obesity Type II
+Female,42.14,167.66,73.07,False,True,Overweight Level II
+Female,45.24,174.66,66.68,True,False,Insufficient Weight
+Female,44.11,179.87,56.09,False,True,Normal Weight
+Male,38.37,169.24,87.16,False,True,Obesity Type II
+Male,36.25,166.8,48.66,False,True,Normal Weight
+Female,34.25,171.52,90.52,False,False,Obesity Type I
+Female,25.95,161.65,54.96,False,False,Normal Weight
+Male,31.63,190.9,59.95,False,True,Normal Weight
+Female,18.0,153.92,45.66,True,False,Insufficient Weight
+Female,33.82,171.85,64.97,True,False,Insufficient Weight
+Male,23.14,190.24,94.51,False,True,Overweight Level II
+Female,21.76,170.07,85.31,False,True,Obesity Type I
+Male,37.16,168.1,94.57,False,True,Obesity Type II
+Male,51.7,166.43,85.44,False,False,Obesity Type I
+Male,46.02,168.2,52.93,False,False,Normal Weight
+Male,18.0,183.73,68.38,True,True,Normal Weight
+Male,23.12,150.0,59.4,False,False,Overweight Level I
+Male,46.29,185.33,101.61,True,True,Overweight Level II
+Male,23.21,155.76,51.06,True,False,Insufficient Weight
+Female,32.3,167.33,92.87,True,False,Overweight Level II
+Male,41.6,165.71,92.86,False,True,Obesity Type II
+Male,23.38,175.89,111.59,True,False,Obesity Type I
+Female,36.26,154.02,66.81,True,True,Overweight Level II
+Female,18.99,174.62,89.25,False,False,Overweight Level II
+Female,27.78,190.24,120.63,False,True,Obesity Type II
+Male,38.84,156.37,62.65,False,False,Overweight Level I
+Female,18.0,171.9,44.3,False,True,Normal Weight
+Male,40.29,163.38,40.0,True,False,Insufficient Weight
+Male,34.76,174.26,89.25,False,True,Obesity Type I
+Male,41.63,170.19,40.0,False,False,Insufficient Weight
+Male,37.69,163.59,67.55,False,True,Overweight Level II
+Female,51.37,174.88,83.75,False,False,Overweight Level I
+Female,36.5,188.04,78.7,False,True,Overweight Level I
+Male,29.85,168.09,83.51,True,True,Overweight Level II
+Male,36.47,177.2,79.45,False,False,Overweight Level I
+Male,41.52,157.07,100.58,True,True,Obesity Type II
+Female,35.59,160.44,55.95,False,True,Overweight Level I
+Male,35.49,174.72,61.46,False,False,Normal Weight
+Male,26.58,184.84,59.55,False,False,Insufficient Weight
+Female,27.05,173.56,91.6,False,True,Obesity Type II
+Female,18.17,166.87,93.01,False,False,Obesity Type I
+Male,55.99,169.99,84.02,False,False,Overweight Level II
+Female,20.07,157.5,98.67,False,True,Obesity Type III
+Female,26.69,176.05,51.44,False,False,Insufficient Weight
+Male,26.38,178.82,108.34,False,False,Obesity Type I
+Female,45.74,165.48,105.46,False,False,Obesity Type II
+Male,31.46,165.3,89.71,False,True,Obesity Type II
+Female,49.97,172.66,110.64,False,False,Obesity Type II
+Male,26.92,165.63,41.87,False,True,Normal Weight
+Male,38.35,169.34,64.51,False,True,Overweight Level I
+Male,24.98,191.0,60.29,True,True,Insufficient Weight
+Female,60.74,167.53,89.43,False,False,Obesity Type I
+Male,20.75,166.42,54.0,False,False,Normal Weight
+Female,38.72,163.52,90.15,False,False,Obesity Type I
+Male,42.61,177.44,102.41,False,False,Obesity Type I
+Male,39.97,168.19,88.9,False,True,Obesity Type II
+Female,32.78,163.51,80.68,False,True,Obesity Type II
+Male,33.44,183.21,55.24,False,True,Normal Weight
+Male,35.53,184.2,58.06,False,True,Normal Weight
+Female,33.24,164.0,99.99,False,False,Obesity Type II
+Male,46.57,151.33,90.59,True,False,Obesity Type I
+Male,61.53,180.08,74.22,True,True,Normal Weight
+Male,28.31,163.15,66.64,False,True,Overweight Level II
+Male,18.56,177.91,40.0,False,True,Normal Weight
+Female,33.94,150.3,53.58,False,False,Normal Weight
+Female,65.96,178.93,113.23,True,False,Obesity Type I
+Male,25.36,157.89,49.39,False,False,Normal Weight
+Female,54.67,177.31,78.79,False,False,Overweight Level I
+Male,55.13,170.14,95.15,False,False,Obesity Type I
+Female,28.36,160.46,49.9,True,True,Normal Weight
+Male,41.83,165.93,78.69,False,True,Obesity Type I
+Male,54.54,176.86,93.76,False,False,Overweight Level II
+Male,30.45,171.06,75.25,False,False,Overweight Level I
+Male,32.56,175.84,132.37,False,True,Obesity Type III
+Male,28.02,189.76,41.63,False,False,Insufficient Weight
+Male,22.82,154.36,96.17,False,False,Obesity Type III
+Female,27.21,186.17,71.54,False,False,Normal Weight
+Male,20.31,171.04,90.44,True,False,Overweight Level II
+Female,35.41,161.01,83.83,False,False,Obesity Type I
+Male,25.76,156.7,60.34,False,False,Normal Weight
+Female,37.81,168.11,79.58,False,True,Obesity Type I
+Female,18.0,179.22,40.0,False,True,Normal Weight
+Female,38.97,168.72,87.06,False,True,Obesity Type II
+Male,45.0,185.11,80.96,False,True,Overweight Level I
+Male,18.0,155.49,87.77,False,False,Obesity Type II
+Female,39.49,169.88,96.16,False,False,Obesity Type I
+Male,49.73,157.48,82.35,False,True,Obesity Type II
+Female,20.48,173.64,77.96,False,False,Overweight Level I
+Male,55.07,178.87,57.38,False,True,Normal Weight
+Female,40.03,165.79,60.76,True,True,Normal Weight
+Female,26.54,150.0,98.73,False,True,Obesity Type III
+Male,34.33,171.99,103.73,False,True,Obesity Type III
+Female,41.7,174.37,70.24,True,True,Normal Weight
+Male,35.91,174.04,75.92,False,False,Overweight Level I
+Female,41.47,182.36,56.91,False,False,Insufficient Weight
+Female,23.95,159.29,98.46,True,False,Obesity Type I
+Male,37.03,176.8,88.31,False,True,Obesity Type I
+Male,18.04,181.93,113.82,False,True,Obesity Type II
+Male,33.67,152.21,57.43,False,True,Overweight Level I
+Female,24.15,173.2,67.44,False,False,Normal Weight
+Male,26.17,164.96,79.63,True,True,Overweight Level II
+Female,49.83,169.18,87.93,True,False,Overweight Level II
+Female,48.1,173.48,70.69,False,False,Normal Weight
+Male,42.31,165.13,57.54,False,False,Normal Weight
+Male,21.89,163.24,92.63,False,False,Obesity Type I
+Female,31.2,170.34,89.42,True,True,Obesity Type I
+Female,49.56,159.13,56.67,False,True,Overweight Level I
+Male,36.7,159.14,102.11,False,True,Obesity Type III
+Male,62.83,176.79,98.4,False,False,Obesity Type I
+Male,39.72,158.51,77.69,False,True,Obesity Type II
+Male,37.3,176.66,76.59,True,True,Normal Weight
+Male,31.29,174.63,86.08,False,False,Overweight Level II
+Female,36.6,152.74,57.77,False,True,Overweight Level I
+Female,33.17,163.22,75.6,False,False,Overweight Level II
+Female,43.5,181.94,40.0,False,False,Insufficient Weight
+Female,46.48,160.19,92.53,False,True,Obesity Type III
+Male,25.57,165.36,43.77,False,True,Normal Weight
+Male,19.03,174.62,105.07,False,True,Obesity Type II
+Male,18.0,177.83,68.4,False,False,Normal Weight
+Female,41.1,167.48,70.77,False,False,Overweight Level I
+Female,21.76,164.02,62.45,False,False,Normal Weight
+Male,18.0,184.22,69.24,False,False,Normal Weight
+Male,39.66,187.39,103.37,False,False,Overweight Level II
+Female,64.92,179.79,40.0,False,True,Normal Weight
+Female,34.93,170.85,100.54,False,True,Obesity Type II
+Male,45.06,161.92,81.76,True,False,Overweight Level II
+Male,35.98,161.7,50.86,False,True,Overweight Level I
+Female,33.81,175.23,53.49,False,True,Normal Weight
+Male,46.03,174.18,108.53,False,False,Obesity Type II
+Male,31.52,184.02,56.09,False,False,Insufficient Weight
+Male,38.21,176.5,51.93,False,False,Insufficient Weight
+Female,38.86,154.97,97.75,False,False,Obesity Type III
+Female,26.98,180.52,81.77,False,True,Overweight Level II
+Female,46.9,160.02,56.24,False,False,Normal Weight
+Female,32.9,166.16,79.33,False,True,Obesity Type I
+Female,25.93,172.5,54.48,False,True,Normal Weight
+Female,41.44,189.96,97.02,False,False,Overweight Level I
+Female,24.22,200.0,96.23,False,True,Overweight Level I
+Male,35.34,176.07,85.64,False,False,Overweight Level II
+Male,34.89,168.17,82.23,False,True,Obesity Type I
+Male,48.03,175.35,110.22,False,False,Obesity Type II
+Male,40.7,178.88,74.99,False,True,Overweight Level I
+Male,34.7,166.79,51.36,False,False,Insufficient Weight
+Male,44.81,187.95,83.99,False,False,Normal Weight
+Male,51.68,172.3,116.72,False,True,Obesity Type III
+Female,41.69,174.98,54.7,False,True,Normal Weight
+Female,35.12,176.66,67.77,False,True,Overweight Level I
+Male,19.26,174.22,83.33,True,True,Overweight Level I
+Male,22.22,178.39,73.92,False,False,Normal Weight
+Female,31.34,163.83,55.35,False,False,Normal Weight
+Male,27.69,164.42,97.44,False,True,Obesity Type III
+Male,32.76,159.0,121.4,False,True,Obesity Type III
+Female,35.68,174.4,78.92,False,True,Overweight Level II
+Male,41.36,177.79,56.92,True,False,Insufficient Weight
+Female,34.15,174.58,44.02,False,True,Normal Weight
+Male,40.84,186.74,80.16,False,False,Normal Weight
+Female,35.77,169.94,97.08,False,False,Obesity Type I
+Female,18.0,176.69,84.5,False,True,Overweight Level II
+Female,23.73,159.08,74.95,False,False,Overweight Level II
+Male,33.27,166.13,63.21,False,False,Normal Weight
+Female,20.48,176.96,53.16,False,False,Insufficient Weight
+Male,42.2,178.49,91.7,False,True,Obesity Type I
+Male,53.37,167.06,93.28,False,True,Obesity Type II
+Male,49.63,169.28,44.09,True,False,Insufficient Weight
+Male,32.44,154.82,106.8,False,False,Obesity Type III
+Female,52.89,166.43,86.48,False,False,Obesity Type I
+Female,36.78,178.9,102.99,True,False,Overweight Level II
+Male,30.95,175.75,48.16,False,False,Insufficient Weight
+Male,27.64,175.01,47.68,False,False,Insufficient Weight
+Female,31.37,170.5,72.02,False,True,Overweight Level I
+Male,30.34,170.07,85.06,False,False,Overweight Level II
+Female,37.04,163.4,110.93,False,False,Obesity Type III
+Male,36.93,176.99,89.12,False,False,Overweight Level II
+Male,35.04,174.21,70.15,False,False,Normal Weight
+Female,40.24,174.92,54.47,False,True,Normal Weight
+Male,49.29,164.74,99.6,False,False,Obesity Type II
+Female,46.39,150.0,55.71,False,False,Normal Weight
+Male,18.0,180.97,107.57,False,True,Obesity Type II
+Male,18.0,165.21,69.31,False,False,Overweight Level I
+Male,46.21,161.37,106.81,False,True,Obesity Type III
+Female,18.6,176.93,88.58,False,True,Obesity Type I
+Male,32.3,166.08,72.26,True,True,Overweight Level I
+Male,20.96,180.6,64.61,False,False,Normal Weight
+Male,18.0,176.17,68.18,False,False,Normal Weight
+Male,41.5,176.84,83.57,True,False,Normal Weight
+Female,44.11,156.34,76.54,False,False,Obesity Type I
+Female,28.08,182.12,63.12,False,False,Normal Weight
+Male,18.0,172.61,71.69,False,True,Overweight Level I
+Female,28.45,166.31,76.57,False,True,Obesity Type I
+Male,39.7,171.43,40.0,False,False,Insufficient Weight
+Male,18.0,152.24,84.16,False,True,Obesity Type III
+Male,37.2,174.09,55.41,True,False,Insufficient Weight
+Female,34.82,159.71,51.93,False,False,Normal Weight
+Female,41.95,156.47,41.25,False,False,Insufficient Weight
+Female,36.43,154.78,40.0,False,False,Insufficient Weight
+Female,23.32,181.13,47.89,False,True,Normal Weight
+Female,49.36,163.71,60.82,False,True,Overweight Level I
+Female,33.1,185.34,114.07,False,False,Obesity Type I
+Female,34.67,164.64,64.48,False,True,Overweight Level I
+Female,23.8,152.93,78.56,True,False,Overweight Level II
+Female,29.68,158.83,83.01,False,True,Obesity Type II
+Male,24.38,182.36,77.62,False,False,Normal Weight
+Female,32.92,168.44,73.45,False,False,Overweight Level I
+Female,55.54,164.52,51.09,False,False,Normal Weight
+Female,18.54,171.6,104.02,False,True,Obesity Type III
+Female,18.0,175.02,111.14,False,True,Obesity Type III
+Female,52.65,181.17,41.35,False,False,Insufficient Weight
+Female,32.49,184.48,54.52,False,True,Normal Weight
+Female,26.97,166.4,69.4,False,False,Overweight Level I
+Female,47.48,156.74,55.71,False,False,Normal Weight
+Female,27.73,165.87,85.12,False,False,Obesity Type I
+Female,56.91,172.6,60.43,False,False,Normal Weight
+Female,43.14,160.36,118.3,False,True,Obesity Type III
+Male,29.15,160.43,98.81,False,False,Obesity Type II
+Male,60.89,173.44,79.25,False,False,Overweight Level I
+Female,27.73,169.51,95.54,True,False,Overweight Level II
+Female,43.91,170.33,97.12,True,False,Overweight Level II
+Male,38.59,162.42,63.72,False,False,Normal Weight

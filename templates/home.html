@@ -1,0 +1,66 @@
+{% extends 'base.html' %}
+
+{% block title %}Home - Obesity Prediction{% endblock %}
+
+{% block content %}
+<div class="row justify-content-center mb-4">
+    <div class="col-md-8 text-center">
+        <h1 class="display-4 mb-4">Welcome to Obesity Prediction</h1>
+        <p class="lead">Predict obesity levels using three different machine learning algorithms.</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-4 mb-4">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Logistic Regression</h5>
+                <p class="card-text">A statistical model that uses a logistic function to predict obesity levels based on input features.</p>
+                <a href="{% url 'logistic_regression:predict' %}" class="btn btn-primary">Try Logistic Regression</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4 mb-4">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">K-Nearest Neighbors</h5>
+                <p class="card-text">Predicts obesity levels by finding the most similar cases in the training data.</p>
+                <a href="{% url 'knn:predict' %}" class="btn btn-primary">Try KNN</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4 mb-4">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Polynomial Regression</h5>
+                <p class="card-text">Uses polynomial features to capture non-linear relationships in the data for better predictions.</p>
+                <a href="{% url 'polynomial_regression:predict' %}" class="btn btn-primary">Try Polynomial Regression</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row mt-4">
+    <div class="col-md-8 mx-auto">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">About the Project</h5>
+                <p class="card-text">
+                    This project uses machine learning to predict obesity levels based on various physical and lifestyle factors. 
+                    The predictions are made using three different algorithms, each with its own strengths:
+                </p>
+                <ul>
+                    <li><strong>Logistic Regression:</strong> Good for understanding feature importance and probability estimates</li>
+                    <li><strong>K-Nearest Neighbors:</strong> Works well with non-linear patterns and is intuitive to understand</li>
+                    <li><strong>Polynomial Regression:</strong> Captures complex relationships between features</li>
+                </ul>
+                <p class="card-text">
+                    Try each algorithm and compare their predictions. The confidence scores help you understand how certain the model is about its predictions.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
