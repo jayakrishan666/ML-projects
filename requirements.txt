@@ -1,7 +1,7 @@
-django==5.0.2
-django-crispy-forms==2.3
-crispy-bootstrap4==2024.1
-numpy==2.2.3
-pandas==2.2.3
-scikit-learn==1.6.1
-joblib==1.4.2
+Django>=4.2.0
+numpy>=1.23.0
+pandas>=2.0.0
+scikit-learn>=1.2.0
+joblib>=1.1.0
+matplotlib>=3.7.0
+django-crispy-forms>=2.0
