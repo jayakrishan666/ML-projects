@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'logistic_regression',
     'knn',
     'polynomial_regression',
+    'whitenoise.middleware.WhiteNoiseMiddleware',
 ]
 
 MIDDLEWARE = [
